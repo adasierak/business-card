@@ -68,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614771711581</updated>
       <workItem from="1614771712664" duration="2547000" />
-      <workItem from="1614776194397" duration="9295000" />
+      <workItem from="1614776194397" duration="10769000" />
     </task>
     <task id="LOCAL-00001" summary="created files">
       <created>1614773320727</created>
@@ -98,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614859223447</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="complete BEM">
+      <created>1614863723206</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614863723206</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,13 +140,14 @@
     <MESSAGE value="added normalize.css" />
     <MESSAGE value="html structure" />
     <MESSAGE value="main box styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="main box styles" />
+    <MESSAGE value="complete BEM" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete BEM" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="37" key="CommitChangelistDialog2" timestamp="1614859223146">
+    <state x="264" y="37" key="CommitChangelistDialog2" timestamp="1614863722902">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="37" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1614859223146" />
+    <state x="264" y="37" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1614863722902" />
     <state x="121" y="60" key="DiffContextDialog" timestamp="1614775850304">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -148,10 +156,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1614776213629" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1614859240989">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1614863737481">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1614859240989" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1614863737481" />
     <state x="347" y="73" width="587" height="534" key="find.popup" timestamp="1614860312006">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
