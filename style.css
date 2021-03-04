@@ -12,6 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  font-family: Arial;
 }
 
 .main {
@@ -19,11 +20,7 @@ body {
   border-radius: 16px;
   width: 624px;
   margin: 16px;
-}
-
-.person__photo {
-  height: 148px;
-  width: 148px;
+  padding: 32px;
 }
 
 .person {
@@ -31,7 +28,38 @@ body {
   flex-direction: row;
 }
 
+.person__photo {
+  width: 148px;
+  height: 148px;
+}
+
+.person__name {
+  font-size: 36px;
+  margin: 0;
+  font-weight: normal;
+}
+
+.person__position {
+  font-size: 18px;
+  font-style: italic;
+  margin: 0;
+  color: #545454;
+}
+
 .person__details {
   display: flex;
   flex-direction: column;
 }
+
+.person__description {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.special {
+  color: #ED6D05;
+  font-weight: normal;
+}
+
+
+
